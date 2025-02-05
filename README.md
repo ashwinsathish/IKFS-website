@@ -1,2 +1,3 @@
-# IKFS-website
-Landing page of Inspired Karters FS - BITS Pilani Chapter
+# Inspired Karters Electric Website
+
+Official landing page of the IKE BITS Pilani Chapter
